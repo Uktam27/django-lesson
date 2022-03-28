@@ -1,2 +1,2 @@
 # django-lesson
-Django haqida darslardan
+Django haqida darslardann
